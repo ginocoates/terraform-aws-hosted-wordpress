@@ -13,7 +13,7 @@ variable "wordpress-images" {
   type = "map"
 
   default = {
-    "us-east-1" = "ami-6f979778"
+    "us-east-1" = "ami-a42d75b3"
   }
 }
 
